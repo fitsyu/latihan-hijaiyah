@@ -1,0 +1,4 @@
+from menu import *
+A = QApplication([])
+mn = Menu()
+A.exec_()

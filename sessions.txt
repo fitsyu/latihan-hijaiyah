@@ -1,0 +1,24 @@
+mode		:	Latihan
+soal		:	Tanwin
+jumlah soal	:	84
+benar		:	80
+salah		:	4
+waktu		:	3:59
+nilai		:	95.0
+****
+mode		:	Latihan
+soal		:	Harokat
+jumlah soal	:	84
+benar		:	81
+salah		:	3
+waktu		:	2:21
+nilai		:	96.0
+****
+mode		:	Latihan
+soal		:	Dasar
+jumlah soal	:	28
+benar		:	24
+salah		:	4
+waktu		:	0:56
+nilai		:	86.0
+****

@@ -1,0 +1,71 @@
+
+QRadioButton {
+	font-size: 20px;
+	font-style: bold;
+}
+
+QRadioButton:hover {
+	font-size: 10px;
+	font-style: bold;
+ background-color: grey;
+ border-width: 2px;
+ border-color: blue;
+ border-style: solid;
+ border-radius: 10px;
+ padding: 2px;
+}
+
+QPushButton  {
+	font-style: bold;
+	color: white;
+    background-color: green;
+    border-width: 2px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 10;
+    padding: 3px;
+    min-width: 9ex;
+    min-height: 2.5ex;
+}
+
+QPushButton:hover {
+	color: black;
+   background-color: yellow;
+}
+
+QPushButton:pressed {
+	padding-left: 5px;
+	padding-top: 5px;
+	background-color: #d0d67c;
+}
+
+QPushButton#btKeluar {
+	background: red;
+}
+
+QPushButton#btRetake{
+	background: black;
+	color: white
+}
+
+QLineEdit {
+	
+	background-color: grey;
+	border-width: 2px;
+	border-color: darkkhaki;
+	border-style: solid;
+	border-radius: 5;
+	padding: 3px;
+	min-width: 9ex;
+	min-height: 2.5ex;
+	
+	
+}
+
+QListWidget::item:hover {
+color: yellow;	
+}
+	
+
+
+	
